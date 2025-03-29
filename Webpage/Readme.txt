@@ -7,8 +7,7 @@ Direction to run and navigate through the webpage -
 #After packages installed, >streamlit run app.py
 #The webpage is opened automatically in browser
 #On the sidebar of the webpage, input desired parameters by selecting the options provided. Some parameters are given in the form of sliders.
-#On the main page, the input parameters specified are shown and the prediction of stroke is shown.
-#If prediction is 1, the patient is risk of stroke. If prediction is 0, the patient is not at a risk of stroke.
+#On the main page, the input parameters specified are shown and the prediction of house price.
 #On the bottom of the webpage, select the type of ML Model to view visualization for that model.
 #For example, select ‘Logistic Regression’ and click on display to display the output metrics along with vizualization graphs.
 #Click on ‘Show Raw Data’ to view the data taken for that model. The raw data refreshers randomly everytime the model viewed is changed.
